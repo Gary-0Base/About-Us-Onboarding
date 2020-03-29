@@ -17,6 +17,7 @@ An individual’s identity is never known by the system.  Personally identifying
 
 How do participating healthcare providers use Zerobase?
 
+A patient can elect to share their predicted risk-of-exposure score to aid clinical decision-making.  Community health authorities can monitor and better understand epidemiologic dynamics and risk-stratify at the population level, in order to achieve rapid effective containment.
 
 What technological resources does Zerobase require?
 A computer and a printer is all that is required for local public health efforts to activate Zerobase. Individual community members only need a cell phone. 
